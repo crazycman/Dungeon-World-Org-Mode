@@ -4,3 +4,8 @@
 Also see the [[file:LICENSE.org][LICENSE file]].
 
 Noticed also a similar repo with [[https://github.com/agude/Dungeon-World-Markdown/tree/master/text][Dungeon World in Markdown format]].
+
+* Resources
+  - http://eotvrpg.ru/gallery/dungeon_world_guide_pdf_version_1_2.pdf
+  - https://dungeon-world.com/downloads/
+    
