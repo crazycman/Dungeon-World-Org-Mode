@@ -8,7 +8,8 @@ Noticed also a similar repo with [[https://github.com/agude/Dungeon-World-Markdo
 * Resources
   - http://eotvrpg.ru/gallery/dungeon_world_guide_pdf_version_1_2.pdf
   - https://dungeon-world.com/downloads/
-  - http://book.dwgazetteer.com/index.html
   - https://www.reddit.com/r/DungeonWorld/wiki/index
   - https://spoutinglore.blogspot.com/2020/01/my-framework-for-gming-dungeon-world.html
+  - http://book.dwgazetteer.com/index.html
   - https://acodispo.github.io/Dungeon-World-HTML-SRD/
+  - http://dungeonworld.chrisimnetz.com/de
